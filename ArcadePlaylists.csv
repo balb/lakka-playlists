@@ -1,39 +1,68 @@
-﻿Game,,ROM,Emulator
-Pac-Man (1980),Namco Museum,,
-Cutie Q (1979) [note 1],Namco Museum,,
-Galaxian (1979),Namco Museum,,
-Pac-Land (1984),Namco Museum,,
-Metro-Cross (1985),Namco Museum,,
-King & Balloon (1980),Namco Museum,,
-Rally-X (1980),Namco Museum,,
-Xevious (1983),Namco Museum,,
-Ms. Pac-Man (1982),Namco Museum,,
-The Return of Ishtar (1986),Namco Museum,,
-Baraduke (1985),Namco Museum,,
-Motos (1985),Namco Museum,,
-New Rally-X (1981),Namco Museum,,
-Mappy (1983),Namco Museum,,
-Dig Dug (1982),Namco Museum,,
-Genpei Tōma Den (1986),Namco Museum,,
-Dragon Spirit (1987),Namco Museum,,
-Sky Kid (1985),Namco Museum,,
-Galaga (1981),Namco Museum,,
-Gaplus (1984),Namco Museum,,
-Phozon (1983),Namco Museum,,
-Ordyne (1988),Namco Museum,,
-Pac-Mania (1987),Namco Museum,,
-Rolling Thunder (1986),Namco Museum,,
-Bosconian (1981),Namco Museum,,
-Grobda (1984),Namco Museum,,
-Pole Position II (1983),Namco Museum,,
-Assault (1988),Namco Museum,,
-Valkyrie no Densetsu (1989),Namco Museum,,
-Wonder Momo (1987),Namco Museum,,
-Pole Position (1982),Namco Museum,,
-Dragon Buster (1985),Namco Museum,,
-The Tower of Druaga (1984),Namco Museum,,
-Assault Plusdagger (1988),Namco Museum,,
-Rompers (1989),Namco Museum,,
-Toy Pop (1986),Namco Museum,,
-Bomb Beedagger (1979),Namco Museum,,
-Dragon Saber (1990),Namco Museum,,
+﻿Game,Year,Alt Title,Playlist,ROM,Emulator
+Pac-Man,1980,,Namco Museum,,
+Cutie Q,1979,,Namco Museum,,
+Galaxian,1979,,Namco Museum,,
+Pac-Land,1984,,Namco Museum,,
+Metro-Cross,1985,,Namco Museum,,
+King & Balloon,1980,,Namco Museum,,
+Rally-X,1980,,Namco Museum,,
+Xevious,1983,,Namco Museum,,
+Ms. Pac-Man,1982,,Namco Museum,,
+The Return of Ishtar,1986,,Namco Museum,,
+Baraduke,1985,,Namco Museum,,
+Motos,1985,,Namco Museum,,
+New Rally-X,1981,,Namco Museum,,
+Mappy,1983,,Namco Museum,,
+Dig Dug,1982,,Namco Museum,,
+Genpei Tōma Den,1986,,Namco Museum,,
+Dragon Spirit,1987,,Namco Museum,,
+Sky Kid,1985,,Namco Museum,,
+Galaga,1981,,Namco Museum,,
+Gaplus,1984,,Namco Museum,,
+Phozon,1983,,Namco Museum,,
+Ordyne,1988,,Namco Museum,,
+Pac-Mania,1987,,Namco Museum,,
+Rolling Thunder,1986,,Namco Museum,,
+Bosconian,1981,,Namco Museum,,
+Grobda,1984,,Namco Museum,,
+Pole Position II,1983,,Namco Museum,,
+Assault,1988,,Namco Museum,,
+Valkyrie no Densetsu,1989,,Namco Museum,,
+Wonder Momo,1987,,Namco Museum,,
+Pole Position,1982,,Namco Museum,,
+Dragon Buster,1985,,Namco Museum,,
+The Tower of Druaga,1984,,Namco Museum,,
+Assault Plusdagger,1988,,Namco Museum,,
+Rompers,1989,,Namco Museum,,
+Toy Pop,1986,,Namco Museum,,
+Bomb Beedagger,1979,,Namco Museum,,
+Dragon Saber,1990,,Namco Museum,,
+Space Invaders,1978,,Taito Legends,,FBNeo
+Space Invaders Part II,1979,Deluxe Space Invaders (USA),Taito Legends,,FBNeo
+Phoenix,1980,,Taito Legends,,FBNeo
+Colony 7,1981,,Taito Legends,,FBNeo
+The Electric Yo-Yo,1982,,Taito Legends,,FBNeo
+Jungle Hunt,1982,Jungle King (original) and Pirate Pete (official clone),Taito Legends,,FBNeo
+Zoo Keeper,1982,,Taito Legends,,FBNeo
+Elevator Action,1983,,Taito Legends,,FBNeo
+Great Swordsman,1984,,Taito Legends,,MAME
+Return of the Invaders,1985,,Taito Legends,,FBNeo
+Bubble Bobble,1986,,Taito Legends,,FBNeo
+Gladiator,1986,Ougon no Shiro (Japan),Taito Legends,,FBNeo
+Tokio,1986,Scramble Formation (Japan),Taito Legends,,FBNeo
+Exzisus,1987,,Taito Legends,,FBNeo
+Operation Wolf,1987,,Taito Legends,,FBNeo
+Plump Pop,1987,,Taito Legends,,FBNeo
+Rastan,1987,"Rastan Saga (Japan, Europe)",Taito Legends,,FBNeo
+Rainbow Islands,1987,,Taito Legends,,FBNeo
+Super Qix,1987,,Taito Legends,,MAME
+Operation Thunderbolt,1988,,Taito Legends,,FBNeo
+The NewZealand Story,1988,,Taito Legends,,FBNeo
+Battle Shark,1989,,Taito Legends,,FBNeo
+Continental Circus,1989,,Taito Legends,,FBNeo
+Plotting,1989,Flipull (Japan),Taito Legends,,FBNeo
+Volfied,1989,,Taito Legends,,FBNeo
+The Ninja Kids,1990,,Taito Legends,,FBNeo
+Space Gun,1990,,Taito Legends,,FBNeo
+Thunder Fox,1990,,Taito Legends,,FBNeo
+Tube It,1993,Cachat (Japan),Taito Legends,,FBNeo
