@@ -1,6 +1,6 @@
 # lakka-playlists
 
-Lakka retro game playlists for arcade games based on published compilations.
+Lakka / RetroArch game playlists for arcade games based on published compilations.
 
 Playlists favour FBNeo original ROMS, falling back to working clones or mame2003-plus ROMS where required.
 
@@ -19,6 +19,7 @@ Playlists favour FBNeo original ROMS, falling back to working clones or mame2003
 | Irem Arcade 1                       | TODO                                                         | [irem-arcade-1](https://evercade.co.uk/cartridges/irem-arcade-1/)                     |
 | Cave Shooting Collection            | ???                                                          | [Cave](https://www.co-optimus.com/game/2813/xbox%20360/cave-shooting-collection.html) |
 | Konami???                           |                                                              |                                                                                       |
+| SNK???                              |                                                              |                                                                                       |
 
 - [Midway Arcade Treasures](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures)
 - [Midway Arcade Origins](https://en.wikipedia.org/wiki/Midway_Arcade_Origins)
