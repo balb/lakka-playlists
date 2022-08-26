@@ -37,35 +37,35 @@ Rompers,1989,,Namco Museum,,
 Toy Pop,1986,,Namco Museum,,
 Bomb Beedagger,1979,,Namco Museum,,
 Dragon Saber,1990,,Namco Museum,,
-Space Invaders,1978,,Taito Legends,,FBNeo
-Space Invaders Part II,1979,Deluxe Space Invaders (USA),Taito Legends,,FBNeo
-Phoenix,1980,,Taito Legends,,FBNeo
-Colony 7,1981,,Taito Legends,,FBNeo
-The Electric Yo-Yo,1982,,Taito Legends,,FBNeo
-Jungle Hunt,1982,Jungle King (original) and Pirate Pete (official clone),Taito Legends,,FBNeo
-Zoo Keeper,1982,,Taito Legends,,FBNeo
-Elevator Action,1983,,Taito Legends,,FBNeo
-Great Swordsman,1984,,Taito Legends,,MAME
-Return of the Invaders,1985,,Taito Legends,,FBNeo
-Bubble Bobble,1986,,Taito Legends,,FBNeo
-Gladiator,1986,Ougon no Shiro (Japan),Taito Legends,,FBNeo
-Tokio,1986,Scramble Formation (Japan),Taito Legends,,FBNeo
-Exzisus,1987,,Taito Legends,,FBNeo
-Operation Wolf,1987,,Taito Legends,,FBNeo
-Plump Pop,1987,,Taito Legends,,FBNeo
-Rastan,1987,"Rastan Saga (Japan, Europe)",Taito Legends,,FBNeo
-Rainbow Islands,1987,,Taito Legends,,FBNeo
-Super Qix,1987,,Taito Legends,,MAME
-Operation Thunderbolt,1988,,Taito Legends,,FBNeo
-The NewZealand Story,1988,,Taito Legends,,FBNeo
-Battle Shark,1989,,Taito Legends,,FBNeo
-Continental Circus,1989,,Taito Legends,,FBNeo
-Plotting,1989,Flipull (Japan),Taito Legends,,FBNeo
-Volfied,1989,,Taito Legends,,FBNeo
-The Ninja Kids,1990,,Taito Legends,,FBNeo
-Space Gun,1990,,Taito Legends,,FBNeo
-Thunder Fox,1990,,Taito Legends,,FBNeo
-Tube It,1993,Cachat (Japan),Taito Legends,,FBNeo
+Space Invaders,1978,,Taito Legends,invaders,FBNeo
+Space Invaders Part II,1979,Deluxe Space Invaders (USA),Taito Legends,invadpt2,MAME
+Phoenix,1980,,Taito Legends,phoenix,FBNeo
+Colony 7,1981,,Taito Legends,colony7,FBNeo
+The Electric Yo-Yo,1982,,Taito Legends,elecyoyo,FBNeo
+Jungle Hunt,1982,Jungle King (original) and Pirate Pete (official clone),Taito Legends,junglek,FBNeo
+Zoo Keeper,1982,,Taito Legends,zookeep,FBNeo
+Elevator Action,1983,,Taito Legends,elevator,FBNeo
+Great Swordsman,1984,,Taito Legends,gsword,MAME
+Return of the Invaders,1985,,Taito Legends,retofinv,FBNeo
+Bubble Bobble,1986,,Taito Legends,bublbobl,FBNeo
+Gladiator,1986,Ougon no Shiro (Japan),Taito Legends,gladiatr,FBNeo
+Tokio,1986,Scramble Formation (Japan),Taito Legends,tokio,FBNeo
+Exzisus,1987,,Taito Legends,exzisus,FBNeo
+Operation Wolf,1987,,Taito Legends,opwolf,FBNeo
+Plump Pop,1987,,Taito Legends,plumppop,FBNeo
+Rastan,1987,"Rastan Saga (Japan, Europe)",Taito Legends,rastan,FBNeo
+Rainbow Islands,1987,,Taito Legends,rbisland,FBNeo
+Super Qix,1987,,Taito Legends,sqixbl,MAME
+Operation Thunderbolt,1988,,Taito Legends,othunder,FBNeo
+The NewZealand Story,1988,,Taito Legends,tnzs,FBNeo
+Battle Shark,1989,,Taito Legends,bshark,FBNeo
+Continental Circus,1989,,Taito Legends,contcirc,FBNeo
+Plotting,1989,Flipull (Japan),Taito Legends,plotting,FBNeo
+Volfied,1989,,Taito Legends,volfied,FBNeo
+The Ninja Kids,1990,,Taito Legends,ninjak,FBNeo
+Space Gun,1990,,Taito Legends,spacegun,FBNeo
+Thunder Fox,1990,,Taito Legends,thundfox,FBNeo
+Tube It,1993,Cachat (Japan),Taito Legends,cachat,FBNeo
 Lunar Rescue,1979,,Taito Legends 2,,
 Balloon Bomber,1980,,Taito Legends 2,,
 Crazy Balloon,1980,,Taito Legends 2,,
