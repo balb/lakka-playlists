@@ -15,8 +15,6 @@ Playlists favour FBNeo original ROMS, falling back to working clones or mame2003
 | Midway Arcade Treasures and Origins | Combination of the similar Treasures and Origins collections | See below                                                                             |
 | Capcom Arcade Stadium               | TODO                                                         | [Capcom_Arcade_Stadium](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium)          |
 | Capcom Arcade 2nd Stadium           | TODO                                                         | [2nd](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium#Capcom_Arcade_2nd_Stadium)  |
-| Toaplan Arcade 1                    | TODO                                                         | [toaplan-arcade-1](https://evercade.co.uk/cartridges/)                                |
-| Irem Arcade 1                       | TODO                                                         | [irem-arcade-1](https://evercade.co.uk/cartridges/irem-arcade-1/)                     |
 | Cave Shooting Collection            | ???                                                          | [Cave](https://www.co-optimus.com/game/2813/xbox%20360/cave-shooting-collection.html) |
 | Konami???                           |                                                              |                                                                                       |
 | SNK???                              |                                                              |                                                                                       |
