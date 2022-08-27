@@ -216,8 +216,8 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "/storage/roms/mame2003plus/polepos2.zip",
-      "label": "Pole Position II",
+      "path": "/storage/roms/mame2003plus/poleps2a.zip",
+      "label": "Pole Position II (Atari)",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
       "crc32": "00000000|crc",
@@ -248,8 +248,8 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "/storage/roms/mame2003plus/polepos.zip",
-      "label": "Pole Position",
+      "path": "/storage/roms/mame2003plus/poleposa.zip",
+      "label": "Pole Position (Atari version 2)",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
       "crc32": "00000000|crc",
