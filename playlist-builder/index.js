@@ -59,7 +59,7 @@ function buildPlaylistFile(name, playlist, dats) {
   });
 
   fs.writeFile(
-    `../playlists/${name}.lpl`,
+    `../playlists/A - Arcade - ${name}.lpl`,
     JSON.stringify(pl, null, 2) + "\n",
     (err) => {
       if (err) {
@@ -81,5 +81,12 @@ function getFBNeoEntry(name, label) {
 }
 
 function getMameEntry(name, label) {
-  return { name: "foo" };
+  return {
+    path: `/storage/roms/mame2003plus/${name}.zip`,
+    label: label,
+    core_path: "/tmp/cores/mame2003_plus_libretro.so",
+    core_name: "Arcade (MAME 2003-Plus)",
+    crc32: "00000000|crc",
+    db_name: "MAME 2003-Plus.lpl",
+  };
 }

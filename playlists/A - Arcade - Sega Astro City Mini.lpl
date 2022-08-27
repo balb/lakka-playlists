@@ -272,7 +272,12 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "name": "foo"
+      "path": "/storage/roms/mame2003plus/vf.zip",
+      "label": "Virtua Fighter",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2003-Plus.lpl"
     },
     {
       "path": "/storage/roms/fbneo/wboy.zip",
