@@ -2,22 +2,14 @@ const csv = require("csv-parser");
 const fs = require("fs");
 
 loadCsvs((data) => {
-  console.log("arcadePlaylists", data.arcadePlaylists.length);
-  console.log("fbNeo", data.fbNeo.length);
-  console.log("mame", data.mame.length);
-
   const playlistNames = [
     ...new Set(data.arcadePlaylists.map((x) => x.Playlist)),
   ];
 
-  playlistNames.forEach((playlistName) => {
-    const playlist = data.arcadePlaylists.filter(
-      (x) => x.Playlist === playlistName
-    );
-
+  playlistNames.forEach((name) => {
+    const playlist = data.arcadePlaylists.filter((x) => x.Playlist === name);
     if (!playlist.some((x) => !x.ROM)) {
-      console.log("*** " + playlistName + " ***");
-      console.log(playlist.map((x) => x.ROM));
+      buildPlaylistFile(name, playlist, { FBNeo: data.fbNeo, MAME: data.mame });
     }
   });
 });
@@ -43,4 +35,51 @@ function loadCsv(path, callback) {
     .on("end", () => {
       callback(records);
     });
+}
+
+function buildPlaylistFile(name, playlist, dats) {
+  const pl = {
+    version: "1.5",
+    default_core_path: "",
+    default_core_name: "",
+    label_display_mode: 0,
+    right_thumbnail_mode: 0,
+    left_thumbnail_mode: 0,
+    sort_mode: 0,
+    items: [],
+  };
+
+  playlist.forEach((item) => {
+    const datEntry = dats[item.Emulator].find((x) => x.name === item.ROM);
+    if (item.Emulator === "FBNeo") {
+      pl.items.push(getFBNeoEntry(datEntry.name, datEntry.description));
+    } else if (item.Emulator === "MAME") {
+      pl.items.push(getMameEntry(datEntry.name, datEntry.description));
+    }
+  });
+
+  fs.writeFile(
+    `../playlists/${name}.lpl`,
+    JSON.stringify(pl, null, 2) + "\n",
+    (err) => {
+      if (err) {
+        console.error(err);
+      }
+    }
+  );
+}
+
+function getFBNeoEntry(name, label) {
+  return {
+    path: `/storage/roms/fbneo/${name}.zip`,
+    label: label,
+    core_path: "/tmp/cores/fbneo_libretro.so",
+    core_name: "Arcade (FinalBurn Neo)",
+    crc32: "00000000|crc",
+    db_name: "FBNeo - Arcade Games.lpl",
+  };
+}
+
+function getMameEntry(name, label) {
+  return { name: "foo" };
 }
