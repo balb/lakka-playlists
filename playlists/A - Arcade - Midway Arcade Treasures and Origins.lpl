@@ -168,8 +168,8 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "/storage/roms/fbneo/rbtapper.zip",
-      "label": "Tapper (Root Beer)",
+      "path": "/storage/roms/fbneo/tapper.zip",
+      "label": "Tapper (Budweiser, 1/27/84)",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
