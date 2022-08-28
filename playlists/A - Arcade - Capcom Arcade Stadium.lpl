@@ -32,8 +32,8 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "/storage/roms/fbneo/commando.zip",
-      "label": "Commando (World)",
+      "path": "/storage/roms/fbneo/commandou.zip",
+      "label": "Commando (US set 1)",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
