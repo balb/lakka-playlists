@@ -296,8 +296,8 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "/storage/roms/fbneo/wbml.zip",
-      "label": "Wonder Boy - Monster Land (Japan New Ver., MC-8123, 317-0043)",
+      "path": "/storage/roms/fbneo/wbmlvc.zip",
+      "label": "Wonder Boy - Monster Land (English, Virtual Console)",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
