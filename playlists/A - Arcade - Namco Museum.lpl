@@ -296,12 +296,12 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "/storage/roms/fbneo/bombbee.zip",
+      "path": "/storage/roms/mame2003plus/bombbee.zip",
       "label": "Bomb Bee",
-      "core_path": "/tmp/cores/fbneo_libretro.so",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
       "crc32": "00000000|crc",
-      "db_name": "FBNeo - Arcade Games.lpl"
+      "db_name": "MAME 2003-Plus.lpl"
     },
     {
       "path": "/storage/roms/fbneo/dsaber.zip",
