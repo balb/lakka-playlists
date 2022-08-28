@@ -147,25 +147,25 @@ Virtua Fighter,,,Sega Astro City Mini,vf,MAME
 Wonder Boy,,,Sega Astro City Mini,wboy,FBNeo
 Wonder Boy III Monster Lair,,,Sega Astro City Mini,wb3,FBNeo
 Wonder Boy In Monster Land,,,Sega Astro City Mini,wbmlvc,FBNeo
-720°,,,Midway Arcade Treasures and Origins,,MAME
-APB,,,Midway Arcade Treasures and Origins,,MAME
-Arch Rivals,,,Midway Arcade Treasures and Origins,,MAME
+720°,,,Midway Arcade Treasures and Origins,720,MAME
+APB,,,Midway Arcade Treasures and Origins,apb,MAME
+Arch Rivals,,,Midway Arcade Treasures and Origins,archrivl,MAME
 Blaster,,,Midway Arcade Treasures and Origins,blaster,FBNeo
 Bubbles,,,Midway Arcade Treasures and Origins,bubbles,FBNeo
-Championship Sprint,,,Midway Arcade Treasures and Origins,,MAME
+Championship Sprint,,,Midway Arcade Treasures and Origins,csprint,MAME
 Defender,,,Midway Arcade Treasures and Origins,defender,FBNeo
 Defender II,,StarGate,Midway Arcade Treasures and Origins,stargate,FBNeo
 Gauntlet,,,Midway Arcade Treasures and Origins,gauntlet,FBNeo
 Gauntlet II,,,Midway Arcade Treasures and Origins,gaunt2,FBNeo
 Joust,,,Midway Arcade Treasures and Origins,joust,FBNeo
-Joust 2: Survival of the Fittest,,,Midway Arcade Treasures and Origins,,MAME
+Joust 2: Survival of the Fittest,,,Midway Arcade Treasures and Origins,joust2,MAME
 Klax,,,Midway Arcade Treasures and Origins,klax,FBNeo
-Marble Madness,,,Midway Arcade Treasures and Origins,,MAME
-Paperboy,,,Midway Arcade Treasures and Origins,,MAME
+Marble Madness,,,Midway Arcade Treasures and Origins,marble,MAME
+Paperboy,,,Midway Arcade Treasures and Origins,paperboy,MAME
 Pit-Fighter,,,Midway Arcade Treasures and Origins,pitfight,FBNeo
 Rampage,,,Midway Arcade Treasures and Origins,rampage,FBNeo
-Rampart,,,Midway Arcade Treasures and Origins,,MAME
-RoadBlasters,,,Midway Arcade Treasures and Origins,,MAME
+Rampart,,,Midway Arcade Treasures and Origins,rampart,MAME
+RoadBlasters,,,Midway Arcade Treasures and Origins,roadblst,MAME
 Robotron: 2084,,,Midway Arcade Treasures and Origins,robotron,FBNeo
 Root Beer Tapper,,,Midway Arcade Treasures and Origins,rbtapper,FBNeo
 Satan's Hollow,,,Midway Arcade Treasures and Origins,shollow,FBNeo
@@ -173,16 +173,16 @@ Sinistar,,,Midway Arcade Treasures and Origins,sinistar,FBNeo
 Smash TV,,,Midway Arcade Treasures and Origins,smashtv,FBNeo
 Splat!,,,Midway Arcade Treasures and Origins,splat,FBNeo
 Spy Hunter,,,Midway Arcade Treasures and Origins,spyhunt,FBNeo
-Spy Hunter II,,,Midway Arcade Treasures and Origins,,MAME
-Super Off Road,,,Midway Arcade Treasures and Origins,,MAME
-Super Sprint,,,Midway Arcade Treasures and Origins,,MAME
+Spy Hunter II,,,Midway Arcade Treasures and Origins,spyhunt2,MAME
+Super Off Road,,,Midway Arcade Treasures and Origins,offroad,MAME
+Super Sprint,,,Midway Arcade Treasures and Origins,ssprint,MAME
 Toobin',,,Midway Arcade Treasures and Origins,toobin,FBNeo
 Total Carnage,,,Midway Arcade Treasures and Origins,totcarn,FBNeo
-Tournament Cyberball 2072,,,Midway Arcade Treasures and Origins,,MAME
+Tournament Cyberball 2072,,,Midway Arcade Treasures and Origins,cyberbt,MAME
 Vindicators,,,Midway Arcade Treasures and Origins,vindictr,FBNeo
 Vindicators Part II,,,Midway Arcade Treasures and Origins,vindctr2,FBNeo
-Wizard of Wor,,,Midway Arcade Treasures and Origins,,MAME
-Xenophobe,,,Midway Arcade Treasures and Origins,,MAME
+Wizard of Wor,,,Midway Arcade Treasures and Origins,wow,MAME
+Xenophobe,,,Midway Arcade Treasures and Origins,xenophob,MAME
 Xybots,,,Midway Arcade Treasures and Origins,xybots,FBNeo
 1942,1984,,Capcom Arcade Stadium,1942,FBNeo
 1943: The Battle of Midway,1987,,Capcom Arcade Stadium,1943,FBNeo
