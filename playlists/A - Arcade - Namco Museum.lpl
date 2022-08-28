@@ -310,6 +310,14 @@
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/superpac.zip",
+      "label": "Super Pac-Man",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
     }
   ]
 }
