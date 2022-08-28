@@ -64,8 +64,8 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "/storage/roms/fbneo/columns2.zip",
-      "label": "Columns II: The Voyage Through Time (World)",
+      "path": "/storage/roms/fbneo/column2j.zip",
+      "label": "Columns II: The Voyage Through Time (Japan)",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
@@ -168,8 +168,8 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "/storage/roms/fbneo/puyo.zip",
-      "label": "Puyo Puyo (World)",
+      "path": "/storage/roms/fbneo/puyoj.zip",
+      "label": "Puyo Puyo (Japan, Rev B)",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
