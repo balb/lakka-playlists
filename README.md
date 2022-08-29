@@ -6,50 +6,24 @@ Playlists use FBNeo original ROMS, falling back to working clones or mame2003-pl
 
 ## Playlists
 
-<table>
-    <thead>
-    <tr>
-        <th>Playlist<th>
-        <th>Source<th>
-        <th>Comments<th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>[Namco Museum](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Namco%20Museum.lpl)<td>
-        <td>Source<td>
-        <td>Comments<td>
-    </tr>
-    <tbody>
-</table>
+- [Namco Museum](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Namco%20Museum.lpl)
+  Based on the 30 games in Namco Museum Vol. 1 to Encore - [Wikipedia](https://en.wikipedia.org/wiki/Namco_Museum)
 
-- Based on the 30 games in Namco Museum Vol. 1 to Encore - [Wikipedia](https://en.wikipedia.org/wiki/Namco_Museum)
 - [Taito Legends](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Taito%20Legends.lpl)
-  [Wikipedia](https://en.wikipedia.org/wiki/Taito_Legends)
+  from [Wikipedia](https://en.wikipedia.org/wiki/Taito_Legends)
 
-| Title                                 | Source                                                                                     |
-| ------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Namco Museum                          | [Wikipedia](https://en.wikipedia.org/wiki/Namco_Museum)                                    |
-| Taito Legends                         | [Wikipedia](https://en.wikipedia.org/wiki/Taito_Legends)                                   |
-| Sega Astro City Mini                  | [Sega Fandom](https://sega.fandom.com/wiki/Astro_City_Mini)                                |
-| Midway Arcade Treasures and Origins\* | [Wikipedia (Treasures)](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures)             |
-|                                       | [Wikipedia (Origins)](https://en.wikipedia.org/wiki/Midway_Arcade_Origins)                 |
-| Capcom Arcade Stadium                 | [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium)                           |
-| Capcom Arcade 2nd Stadium             | [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium#Capcom_Arcade_2nd_Stadium) |
+- [Sega Astro City Mini](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Sega%20Astro%20City%20Mini.lpl)
+  from [Sega Fandom](https://sega.fandom.com/wiki/Astro_City_Mini)
 
-\* Midway Arcade Treasures and Origins is a combination of the similar Treasures and Origins collections
+- [Midway Arcade Treasures and Origins](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Midway%20Arcade%20Treasures%20and%20Origins.lpl)
+  combined from the similar [Treasures](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures)
+  and [Origins](https://en.wikipedia.org/wiki/Midway_Arcade_Origins) collections
 
-- [Midway Arcade Treasures](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures)
-- [Midway Arcade Origins](https://en.wikipedia.org/wiki/Midway_Arcade_Origins)
+- [Capcom Arcade Stadium](https://github.com/balb/lakka-playlists/blob/main/playlists/A%20-%20Arcade%20-%20Capcom%20Arcade%20Stadium.lpl)
+  from [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium)
 
-Combination of the similar Treasures and Origins collections
-Based on the 30 games in Namco Museum Vol. 1 to Encore
-
-Konami
-
-https://www.konami.com/games/50th/ac/arcade/eu/en/
-https://en.wikipedia.org/wiki/Konami_80%27s_Arcade_Gallery
-https://en.wikipedia.org/wiki/Konami_Classics_Series:_Arcade_Hits
+- [Capcom Arcade 2nd Stadium](https://github.com/balb/lakka-playlists/blob/main/playlists/A%20-%20Arcade%20-%20Capcom%20Arcade%202nd%20Stadium.lpl)
+  from [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium#Capcom_Arcade_2nd_Stadium)
 
 ## Source DAT files
 
