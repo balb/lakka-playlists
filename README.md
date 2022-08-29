@@ -40,6 +40,9 @@ Download and save the playlists to your Lakka / RetroArch `playlists` folder and
 - [Capcom Arcade 2nd Stadium](https://github.com/balb/lakka-playlists/blob/main/playlists/A%20-%20Arcade%20-%20Capcom%20Arcade%202nd%20Stadium.lpl)
   from [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium#Capcom_Arcade_2nd_Stadium)
 
+- [Konami Arcade Classics Anniversary Collection](https://github.com/balb/lakka-playlists/blob/main/playlists/A%20-%20Arcade%20-%20Konami%20Arcade%20Classics%20Anniversary%20Collection.lpl)
+  from [Konami](https://www.konami.com/games/50th/ac/arcade/eu/en/)
+
 ## Source DAT files
 
 DAT files from:
