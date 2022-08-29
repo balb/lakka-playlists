@@ -2,7 +2,22 @@
 
 Lakka / RetroArch game playlists for arcade games based on published console compilations.
 
-Playlists use FBNeo original ROMS, falling back to working clones or mame2003-plus ROMS where required.
+Playlists use FBNeo original ROMS, falling back to working clones or mame2003-plus ROMS where required to make games work.
+
+## How to use
+
+These playlists are for Lakka. Depending on where your ROMs are stored you might need to update the "path"s.
+
+For Windows users you will need to do some Find and Replace in Notepad++
+
+- Replace all `"path": "/storage/roms/` with `"path": "C:\\ROMs\\` or wherever your ROMs are stored.
+  You might need to change the `fbneo` and `mame2003plus` sub-folders depending on your setup.
+- Replace all `"core_path": "/tmp/cores/fbneo_libretro.so"` with `"core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll"` \*
+- Replace all `"core_path": "/tmp/cores/mame2003_plus_libretro.so"` with `"core_path": "C:\\RetroArch-Win64\\cores\\mame2003_plus_libretro.dll"` \*
+
+\* Assuming your RetroArch is installed in `C:\RetroArch-Win64\`
+
+Download and save the playlists to your Lakka / RetroArch `playlists` folder and restart.
 
 ## Playlists
 
