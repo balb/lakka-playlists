@@ -6,8 +6,24 @@ Playlists use FBNeo original ROMS, falling back to working clones or mame2003-pl
 
 ## Playlists
 
-- [Namco Museum](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Namco%20Museum.lpl)
-  Based on the 30 games in Namco Museum Vol. 1 to Encore - [Wikipedia](https://en.wikipedia.org/wiki/Namco_Museum)
+<table>
+    <thead>
+    <tr>
+        <th>Playlist<th>
+        <th>Source<th>
+        <th>Comments<th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>[Namco Museum](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Namco%20Museum.lpl)<td>
+        <td>Source<td>
+        <td>Comments<td>
+    </tr>
+    <tbody>
+</table>
+
+- Based on the 30 games in Namco Museum Vol. 1 to Encore - [Wikipedia](https://en.wikipedia.org/wiki/Namco_Museum)
 - [Taito Legends](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Taito%20Legends.lpl)
   [Wikipedia](https://en.wikipedia.org/wiki/Taito_Legends)
 
