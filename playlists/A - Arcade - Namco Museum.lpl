@@ -49,7 +49,7 @@
     },
     {
       "path": "/storage/roms/fbneo/kingball.zip",
-      "label": "King &amp; Balloon (US)",
+      "label": "King & Balloon (US)",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",

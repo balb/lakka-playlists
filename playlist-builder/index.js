@@ -51,11 +51,15 @@ function buildPlaylistFile(name, playlist, dats) {
 
   playlist.forEach((item) => {
     const datEntry = dats[item.Emulator].find((x) => x.name === item.ROM);
+    let entry = {};
     if (item.Emulator === "FBNeo") {
-      pl.items.push(getFBNeoEntry(datEntry.name, datEntry.description));
+      entry = getFBNeoEntry(datEntry.name, datEntry.description);
     } else if (item.Emulator === "MAME") {
-      pl.items.push(getMameEntry(datEntry.name, datEntry.description));
+      entry = getMameEntry(datEntry.name, datEntry.description);
     }
+
+    entry.label = entry.label.replace("&amp;", "&");
+    pl.items.push(entry);
   });
 
   fs.writeFile(

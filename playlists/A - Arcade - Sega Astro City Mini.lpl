@@ -153,7 +153,7 @@
     },
     {
       "path": "/storage/roms/fbneo/ichir.zip",
-      "label": "Puzzle &amp; Action: Ichidant-R (World)",
+      "label": "Puzzle & Action: Ichidant-R (World)",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
@@ -257,7 +257,7 @@
     },
     {
       "path": "/storage/roms/fbneo/tantr.zip",
-      "label": "Puzzle &amp; Action: Tant-R (Japan)",
+      "label": "Puzzle & Action: Tant-R (Japan)",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
