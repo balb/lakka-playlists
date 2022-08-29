@@ -10,7 +10,8 @@ These playlists are for Lakka. Depending on where your ROMs are stored you might
 
 For Windows users you will need to do some Find and Replace in Notepad++
 
-- Replace all `"path": "/storage/roms/` with `"path": "C:\\ROMs\\` or wherever your ROMs are stored.
+- Replace all `"path": "/storage/roms/fbneo/` and `"path": "/storage/roms/mame2003plus/`
+  with `"path": "C:\\ROMs\\fbneo\\` and `"path": "C:\\ROMs\\mame2003plus\\` or wherever your ROMs are stored.
   You might need to change the `fbneo` and `mame2003plus` sub-folders depending on your setup.
 - Replace all `"core_path": "/tmp/cores/fbneo_libretro.so"` with `"core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll"` \*
 - Replace all `"core_path": "/tmp/cores/mame2003_plus_libretro.so"` with `"core_path": "C:\\RetroArch-Win64\\cores\\mame2003_plus_libretro.dll"` \*
