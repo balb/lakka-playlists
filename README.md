@@ -34,16 +34,16 @@ Download and save the playlists to your Lakka / RetroArch `playlists` folder and
   combined from the similar [Treasures](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures)
   and [Origins](https://en.wikipedia.org/wiki/Midway_Arcade_Origins) collections
 
-- [Capcom Arcade Stadium](https://github.com/balb/lakka-playlists/blob/main/playlists/A%20-%20Arcade%20-%20Capcom%20Arcade%20Stadium.lpl)
+- [Capcom Arcade Stadium](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Capcom%20Arcade%20Stadium.lpl)
   from [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium)
 
-- [Capcom Arcade 2nd Stadium](https://github.com/balb/lakka-playlists/blob/main/playlists/A%20-%20Arcade%20-%20Capcom%20Arcade%202nd%20Stadium.lpl)
+- [Capcom Arcade 2nd Stadium](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Capcom%20Arcade%202nd%20Stadium.lpl)
   from [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium#Capcom_Arcade_2nd_Stadium)
 
-- [Konami Arcade Classics Anniversary Collection](https://github.com/balb/lakka-playlists/blob/main/playlists/A%20-%20Arcade%20-%20Konami%20Arcade%20Classics%20Anniversary%20Collection.lpl)
+- [Konami Arcade Classics Anniversary Collection](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Konami%20Arcade%20Classics%20Anniversary%20Collection.lpl)
   from [Konami](https://www.konami.com/games/50th/ac/arcade/eu/en/)
 
-- [SNK Arcade Classics Vol. 1](https://github.com/balb/lakka-playlists/blob/main/playlists/A%20-%20Arcade%20-%20SNK%20Arcade%20Classics%20Vol.%201.lpl)
+- [SNK Arcade Classics Vol. 1](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20SNK%20Arcade%20Classics%20Vol.%201.lpl)
   from [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1)
 
 ## Source DAT files
