@@ -49,6 +49,7 @@ Download and save the playlists to your Lakka / RetroArch `playlists` folder and
 
 https://sega.jp/astrocitymini/v/titlelist.html (22 games)
 https://sega.jp/astrocitymini/original/titlelist.html (37 games)
+https://www.mobygames.com/game-group/classic-compilation-games
 
 ## Source DAT files
 
