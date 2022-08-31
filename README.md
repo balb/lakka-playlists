@@ -46,6 +46,10 @@ Download and save the playlists to your Lakka / RetroArch `playlists` folder and
 - [SNK Arcade Classics Vol. 1](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20SNK%20Arcade%20Classics%20Vol.%201.lpl)
   from [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1)
 
+
+https://sega.jp/astrocitymini/v/titlelist.html (22 games)
+https://sega.jp/astrocitymini/original/titlelist.html (37 games)
+
 ## Source DAT files
 
 DAT files from:
