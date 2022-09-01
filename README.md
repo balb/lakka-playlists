@@ -22,37 +22,22 @@ For Windows users you will need to do some Find and Replace in a text editor or 
 
 ## Playlists
 
-- [Namco Museum](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Namco%20Museum.lpl)
-  Based on the 30 games in Namco Museum Vol. 1 to Encore - [Wikipedia](https://en.wikipedia.org/wiki/Namco_Museum)
-
-- [Taito Legends](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Taito%20Legends.lpl)
-  from [Wikipedia](https://en.wikipedia.org/wiki/Taito_Legends)
-
-- [Sega Astro City Mini](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Sega%20Astro%20City%20Mini.lpl)
-  from [Sega Fandom](https://sega.fandom.com/wiki/Astro_City_Mini)
-
-- [Midway Arcade Treasures and Origins](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Midway%20Arcade%20Treasures%20and%20Origins.lpl)
-  combined from the similar [Treasures](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures)
-  and [Origins](https://en.wikipedia.org/wiki/Midway_Arcade_Origins) collections
-
-- [Capcom Arcade Stadium](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Capcom%20Arcade%20Stadium.lpl)
-  from [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium)
-
-- [Capcom Arcade 2nd Stadium](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Capcom%20Arcade%202nd%20Stadium.lpl)
-  from [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium#Capcom_Arcade_2nd_Stadium)
-
-- [Konami Arcade Classics Anniversary Collection](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20Konami%20Arcade%20Classics%20Anniversary%20Collection.lpl)
-  from [Konami](https://www.konami.com/games/50th/ac/arcade/eu/en/)
-
-- [SNK Arcade Classics Vol. 1](https://raw.githubusercontent.com/balb/lakka-playlists/main/playlists/A%20-%20Arcade%20-%20SNK%20Arcade%20Classics%20Vol.%201.lpl)
-  from [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1)
+| Title                               | Source                                                             | Comments                                               |
+| ----------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------ |
+| Namco Museum                        | [Wikipedia](https://en.wikipedia.org/wiki/Namco_Museum)            | Based on the 30 games in Namco Museum Vol. 1 to Encore |
+| Taito Legends                       | [Wikipedia](https://en.wikipedia.org/wiki/Taito_Legends)           |                                                        |
+| Sega Astro City Mini                | [sega.jp](https://sega.jp/astrocitymini/original/titlelist.html)   |                                                        |
+| Sega Astro City Mini V              | [sega.jp](https://sega.jp/astrocitymini/v/titlelist.html)          |                                                        |
+| Midway Arcade Treasures and Origins | [Wikipedia Treasures](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures) and [Wikipedia Origins](https://en.wikipedia.org/wiki/Midway_Arcade_Origins) | Based on the similar Treasures and Origins collections |
+| Capcom Arcade Stadium               | [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium)   |                                                        |
+| Capcom Arcade 2nd Stadium           | [Wikipedia](https://en.wikipedia.org/wiki/Capcom_Arcade_Stadium#Capcom_Arcade_2nd_Stadium)||
+| Konami Arcade Classics Anniversary Collection | [Konami](https://www.konami.com/games/50th/ac/arcade/eu/en/) |                                                    |
+| SNK Arcade Classics 0               | [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1) ||
+| SNK Arcade Classics Vol. 1          | [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1) ||
 
 <!--
-https://sega.jp/astrocitymini/v/titlelist.html (22 games)
-https://sega.jp/astrocitymini/original/titlelist.html (37 games)
 https://www.mobygames.com/game-group/classic-compilation-games
 -->
-
 
 ## Source DAT files
 
