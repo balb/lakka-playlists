@@ -6,9 +6,12 @@ Playlists use FBNeo original ROMS, falling back to working clones or mame2003-pl
 
 ## How to use
 
+[Download playlists here](https://github.com/balb/lakka-playlists/raw/main/playlists.zip) and unzip.
+Copy the playlists to your Lakka / RetroArch `playlists` folder and restart.
+
 These playlists are for Lakka. Depending on where your ROMs are stored you might need to update the "path"s.
 
-For Windows users you will need to do some Find and Replace in Notepad++
+For Windows users you will need to do some Find and Replace in a text editor or command line:
 
 - Replace all `"path": "/storage/roms/fbneo/` and `"path": "/storage/roms/mame2003plus/`
   with `"path": "C:\\ROMs\\fbneo\\` and `"path": "C:\\ROMs\\mame2003plus\\` or wherever your ROMs are stored.
@@ -16,8 +19,6 @@ For Windows users you will need to do some Find and Replace in Notepad++
 - Replace all `"core_path": "/tmp/cores/mame2003_plus_libretro.so"` with `"core_path": "C:\\RetroArch-Win64\\cores\\mame2003_plus_libretro.dll"` \*
 
 \* Assuming your RetroArch is installed in `C:\RetroArch-Win64\`
-
-Download and save the playlists to your Lakka / RetroArch `playlists` folder and restart.
 
 ## Playlists
 
