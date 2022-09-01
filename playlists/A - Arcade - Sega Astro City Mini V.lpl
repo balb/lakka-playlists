@@ -128,8 +128,8 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "/storage/roms/fbneo/vfive.zip",
-      "label": "V-Five (Japan)",
+      "path": "/storage/roms/fbneo/grindstm.zip",
+      "label": "Grind Stormer",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
