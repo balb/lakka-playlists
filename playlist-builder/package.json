@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node ./index.js"
+    "build": "node ./index.js && \"C:\\Program Files\\7-Zip\\7z.exe\" a ..\\playlists.zip ..\\playlists\\*.lpl"
   },
   "dependencies": {
     "csv-parser": "^3.0.0"
