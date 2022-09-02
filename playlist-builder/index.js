@@ -1,6 +1,8 @@
 const csv = require("csv-parser");
 const fs = require("fs");
 
+const listForJson = [];
+
 loadCsvs((data) => {
   const playlistNames = [
     ...new Set(data.arcadePlaylists.map((x) => x.Playlist)),
@@ -10,8 +12,11 @@ loadCsvs((data) => {
     const playlist = data.arcadePlaylists.filter((x) => x.Playlist === name);
     if (!playlist.some((x) => !x.ROM)) {
       buildPlaylistFile(name, playlist, { FBNeo: data.fbNeo, MAME: data.mame });
+      listForJson.push(getPlaylistFileName(name));
     }
   });
+
+  fs.writeFileSync(`../playlists.json`, JSON.stringify(listForJson, null, 2));
 });
 
 function loadCsvs(callback) {
@@ -63,7 +68,7 @@ function buildPlaylistFile(name, playlist, dats) {
   });
 
   fs.writeFile(
-    `../playlists/A - Arcade - ${name}.lpl`,
+    `../playlists/${getPlaylistFileName(name)}`,
     JSON.stringify(pl, null, 2) + "\n",
     (err) => {
       if (err) {
@@ -71,6 +76,10 @@ function buildPlaylistFile(name, playlist, dats) {
       }
     }
   );
+}
+
+function getPlaylistFileName(name) {
+  return `A - Arcade - ${name}.lpl`;
 }
 
 function getFBNeoEntry(name, label) {
