@@ -67,49 +67,49 @@ The Ninja Kids,1990,,Taito Legends,ninjak,FBNeo
 Space Gun,1990,,Taito Legends,spacegun,FBNeo
 Thunder Fox,1990,,Taito Legends,thundfox,FBNeo
 Tube It,1993,Cachat (Japan),Taito Legends,cachat,FBNeo
-Lunar Rescue,1979,,Taito Legends 2,,
-Balloon Bomber,1980,,Taito Legends 2,,
-Crazy Balloon,1980,,Taito Legends 2,,
-Qix,1981,,Taito Legends 2,,
-Alpine Ski,1982,,Taito Legends 2,,
-Front Line,1982,,Taito Legends 2,,
-Wild Western,1982,,Taito Legends 2,,
-Chack'n Pop,1983,,Taito Legends 2,,
-The Legend of Kage,1984,,Taito Legends 2,,
-The Fairyland Story,1985,,Taito Legends 2,,
-KiKi KaiKai,1986,,Taito Legends 2,,
-Bonze Adventure,1988,Jigoku Meguri (Japan),Taito Legends 2,,
-Kuri Kinton,1988,,Taito Legends 2,,
-Nastar Warrior,1988,Rastan Saga 2 (Japan); Nastar (EU),Taito Legends 2,,
-Raimais,1988,,Taito Legends 2,,
-Syvalion,1988,,Taito Legends 2,,
-Cadash,1989,,Taito Legends 2,,
-Cameltry,1989,,Taito Legends 2,,
-Don Doko Don,1989,,Taito Legends 2,,
-Insector X,1989,,Taito Legends 2,,
-Violence Fight,1989,,Taito Legends 2,,
-Football Champ,1990,Hat Trick Hero (Japan),Taito Legends 2,,
-Growl,1990,Runark (Japan),Taito Legends 2,,
-Gun Frontier,1990,,Taito Legends 2,,
-Liquid Kids,1990,Mizubaku Adventure (Japan),Taito Legends 2,,
-Super Space Invaders '91,1990,Majestic Twelve: The Space Invaders Part IV (Japan/USA PS2 release),Taito Legends 2,,
-Metal Black,1991,Gun Frontier 2,Taito Legends 2,,
-Arabian Magic,1992,,Taito Legends 2,,
-Grid Seeker: Project Storm Hammer,1992,,Taito Legends 2,,
-RayForce,1993,"Gunlock (Arcade), Layer Section (Japan), Galactic Attack (EU, USA)",Taito Legends 2,,
-Bubble Symphony,1994,Bubble Bobble II,Taito Legends 2,,
-Darius Gaiden,1994,,Taito Legends 2,,
-Dungeon Magic,1994,Light Bringer (Japan),Taito Legends 2,,
-Space Invaders DX,1994,,Taito Legends 2,,
-Elevator Action Returns,1995,Elevator Action II (USA),Taito Legends 2,,
-Gekirindan,1995,,Taito Legends 2,,
-Puzzle Bobble 2,1995,Bust-a-Move Again (Western arcades): in PS2 release,Taito Legends 2,,
-Space Invaders '95,1995,Akkan-vaders (Japan),Taito Legends 2,,
-Cleopatra Fortune,1996,,Taito Legends 2,,
-RayStorm,1996,,Taito Legends 2,,
-G-Darius,1997,,Taito Legends 2,,
-Pop'n Pop,1997,,Taito Legends 2,,
-Puchi Carat,1997,,Taito Legends 2,,
+Lunar Rescue,1979,,Taito Legends 2,lrescue,MAME
+Balloon Bomber,1980,,Taito Legends 2,ballbomb,MAME
+Crazy Balloon,1980,,Taito Legends 2,crbaloon,FBNeo
+Qix,1981,,Taito Legends 2,qix,FBNeo
+Alpine Ski,1982,,Taito Legends 2,alpine,FBNeo
+Front Line,1982,,Taito Legends 2,frontlin,FBNeo
+Wild Western,1982,,Taito Legends 2,wwestern,FBNeo
+Chack'n Pop,1983,,Taito Legends 2,chaknpop,FBNeo
+The Legend of Kage,1984,,Taito Legends 2,lkage,FBNeo
+The Fairyland Story,1985,,Taito Legends 2,flstory,FBNeo
+KiKi KaiKai,1986,,Taito Legends 2,kikikai,FBNeo
+Bonze Adventure,1988,Jigoku Meguri (Japan),Taito Legends 2,bonzeadv,FBNeo
+Kuri Kinton,1988,,Taito Legends 2,kurikint,FBNeo
+Nastar Warrior,1988,Rastan Saga 2 (Japan); Nastar (EU),Taito Legends 2,nastar,FBNeo
+Raimais,1988,,Taito Legends 2,raimais,FBNeo
+Syvalion,1988,,Taito Legends 2,syvalion,FBNeo
+Cadash,1989,,Taito Legends 2,cadash,FBNeo
+Cameltry,1989,,Taito Legends 2,cameltry,FBNeo
+Don Doko Don,1989,,Taito Legends 2,dondokod,FBNeo
+Insector X,1989,,Taito Legends 2,insectx,FBNeo
+Violence Fight,1989,,Taito Legends 2,viofight,FBNeo
+Football Champ,1990,Hat Trick Hero (Japan),Taito Legends 2,footchmp,FBNeo
+Growl,1990,Runark (Japan),Taito Legends 2,growl,FBNeo
+Gun Frontier,1990,,Taito Legends 2,gunfront,FBNeo
+Liquid Kids,1990,Mizubaku Adventure (Japan),Taito Legends 2,liquidk,FBNeo
+Super Space Invaders '91,1990,Majestic Twelve: The Space Invaders Part IV (Japan/USA PS2 release),Taito Legends 2,ssi,FBNeo
+Metal Black,1991,Gun Frontier 2,Taito Legends 2,metalb,FBNeo
+Arabian Magic,1992,,Taito Legends 2,arabianm,FBNeo
+Grid Seeker: Project Storm Hammer,1992,,Taito Legends 2,gseeker,FBNeo
+RayForce,1993,"Gunlock (Arcade), Layer Section (Japan), Galactic Attack (EU, USA)",Taito Legends 2,gunlock,FBNeo
+Bubble Symphony,1994,Bubble Bobble II,Taito Legends 2,bublbob2,FBNeo
+Darius Gaiden,1994,,Taito Legends 2,dariusg,FBNeo
+Dungeon Magic,1994,Light Bringer (Japan),Taito Legends 2,lightbr,FBNeo
+Space Invaders DX,1994,,Taito Legends 2,spacedx,FBNeo
+Elevator Action Returns,1995,Elevator Action II (USA),Taito Legends 2,elvactr,FBNeo
+Gekirindan,1995,,Taito Legends 2,gekiridn,FBNeo
+Puzzle Bobble 2,1995,Bust-a-Move Again (Western arcades): in PS2 release,Taito Legends 2,pbobble2,FBNeo
+Space Invaders '95,1995,Akkan-vaders (Japan),Taito Legends 2,spcinv95,FBNeo
+Cleopatra Fortune,1996,,Taito Legends 2,cleopatr,FBNeo
+RayStorm,1996,,Taito Legends 2,raystorm,MAME
+G-Darius,1997,,Taito Legends 2,gdarius,MAME
+Pop'n Pop,1997,,Taito Legends 2,popnpop,FBNeo
+Puchi Carat,1997,,Taito Legends 2,puchicar,FBNeo
 Alex Kidd with Stella The Lost Stars,,,Sega Astro City Mini,alexkidd,FBNeo
 Alien Storm,,,Sega Astro City Mini,astorm,FBNeo
 Alien Syndrome,,,Sega Astro City Mini,aliensyn,FBNeo
