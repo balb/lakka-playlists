@@ -6,6 +6,8 @@ Playlists use FBNeo original ROMS, falling back to working clones or mame2003-pl
 
 View the full list of games [here](https://github.com/balb/lakka-playlists/blob/main/ArcadePlaylists.csv).
 
+Any comments or suggestions - https://www.reddit.com/r/RetroArch/comments/x0n3lq/arcade_playlists_for_fbneo_mame_based_on_console/
+
 ## How to use
 
 [Download a zip of all the playlists](https://github.com/balb/lakka-playlists/raw/main/playlists.zip) OR 
