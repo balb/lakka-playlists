@@ -4,21 +4,14 @@ Lakka / RetroArch game playlists for arcade games based on published console com
 
 Playlists use FBNeo original ROMS, falling back to working clones or mame2003-plus ROMS where required to make games work.
 
+View the full list of games [here](https://github.com/balb/lakka-playlists/blob/main/ArcadePlaylists.csv).
+
 ## How to use
 
-[Download playlists here](https://github.com/balb/lakka-playlists/raw/main/playlists.zip) and unzip.
+[Download a zip of all the playlists](https://github.com/balb/lakka-playlists/raw/main/playlists.zip) OR 
+use the [custom downloader](https://codepen.io/balb-the-sasster/full/QWrWpNW) to configure the playlists based on your ROM and core paths (better for Windows users).
+
 Copy the playlists to your Lakka / RetroArch `playlists` folder and restart.
-
-These playlists are for Lakka. Depending on where your ROMs are stored you might need to update the "path"s.
-
-For Windows users you will need to do some Find and Replace in a text editor or command line:
-
-- Replace all `"path": "/storage/roms/fbneo/` and `"path": "/storage/roms/mame2003plus/`
-  with `"path": "C:\\ROMs\\fbneo\\` and `"path": "C:\\ROMs\\mame2003plus\\` or wherever your ROMs are stored.
-- Replace all `"core_path": "/tmp/cores/fbneo_libretro.so"` with `"core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll"` \*
-- Replace all `"core_path": "/tmp/cores/mame2003_plus_libretro.so"` with `"core_path": "C:\\RetroArch-Win64\\cores\\mame2003_plus_libretro.dll"` \*
-
-\* Assuming your RetroArch is installed in `C:\RetroArch-Win64\`
 
 ## Playlists
 
@@ -35,9 +28,14 @@ For Windows users you will need to do some Find and Replace in a text editor or 
 | SNK Arcade Classics 0               | [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1) ||
 | SNK Arcade Classics Vol. 1          | [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1) ||
 
-<!--
-https://www.mobygames.com/game-group/classic-compilation-games
--->
+## Other sources / tools for playlists
+
+* [List of classic compilations](https://www.mobygames.com/game-group/classic-compilation-games)
+* [TOP 200ish from Reddit post](https://www.reddit.com/r/MAME/comments/2rawpr/i_compiled_several_best_ofrecommended_arcade/)
+* [Progetto Snaps best games](https://www.progettosnaps.net/bestgames/)
+* [Arcade Manager](https://github.com/cosmo0/arcade-manager)
+* [Playlist Editor](https://www.marcrobledo.com/retroarch-playlist-editor/)
+* [Playlist Buddy](https://forums.libretro.com/t/retroarch-playlist-buddy-playlist-and-thumbnail-generation-app/8417)
 
 ## Source DAT files
 
