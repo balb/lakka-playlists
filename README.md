@@ -4,6 +4,8 @@ Lakka / RetroArch game playlists for arcade games based on published console com
 
 Playlists use FBNeo original ROMS, falling back to working clones or mame2003-plus ROMS where required to make games work.
 
+* Some games need mame2010. See below. *
+
 View the full list of games [here](https://github.com/balb/lakka-playlists/blob/main/ArcadePlaylists.csv).
 
 Any comments or suggestions - https://www.reddit.com/r/RetroArch/comments/x0n3lq/arcade_playlists_for_fbneo_mame_based_on_console/
@@ -21,6 +23,7 @@ Copy the playlists to your Lakka / RetroArch `playlists` folder and restart.
 | ----------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------ |
 | Namco Museum                        | [Wikipedia](https://en.wikipedia.org/wiki/Namco_Museum)            | Based on the 30 games in Namco Museum Vol. 1 to Encore |
 | Taito Legends                       | [Wikipedia](https://en.wikipedia.org/wiki/Taito_Legends)           |                                                        |
+| Taito Legends 2                     | [Wikipedia](https://en.wikipedia.org/wiki/Taito_Legends_2)         | Use mame2010 core for G-Darius and RayStorm            |
 | Sega Astro City Mini                | [sega.jp](https://sega.jp/astrocitymini/original/titlelist.html)   |                                                        |
 | Sega Astro City Mini V              | [sega.jp](https://sega.jp/astrocitymini/v/titlelist.html)          |                                                        |
 | Midway Arcade Treasures and Origins | [Wikipedia Treasures](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures) and [Wikipedia Origins](https://en.wikipedia.org/wiki/Midway_Arcade_Origins) | Based on the similar Treasures and Origins collections |
