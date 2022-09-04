@@ -248,24 +248,24 @@ Super Puzzle Fighter II Turbo,1996,,Capcom Arcade 2nd Stadium,spf2t,FBNeo
 The Speed Rumbler,1986,,Capcom Arcade 2nd Stadium,srumbler,FBNeo
 Three Wonders,1991,,Capcom Arcade 2nd Stadium,3wonders,FBNeo
 Tiger Road,1987,,Capcom Arcade 2nd Stadium,tigeroad,FBNeo
-Asteroids,,,Atari Vault,,
-Asteroids Deluxe,,,Atari Vault,,
-Black Widow,,,Atari Vault,,
-Centipede,,,Atari Vault,,
-Crystal Castles,,,Atari Vault,,
-Gravitar,,,Atari Vault,,
-Liberator,,,Atari Vault,,
-Lunar Lander,,,Atari Vault,,
-Major Havoc,,,Atari Vault,,
-Millipede,,,Atari Vault,,
-Missile Command,,,Atari Vault,,
-Pong,,,Atari Vault,,
-Red Baron,,,Atari Vault,,
-Space Duel,,,Atari Vault,,
-Sprint,,,Atari Vault,,
-Super Breakout,,,Atari Vault,,
-Tempest,,,Atari Vault,,
-Warlords,,,Atari Vault,,
+Asteroids,,,Atari Vault,asteroid,FBNeo
+Asteroids Deluxe,,,Atari Vault,astdelux,FBNeo
+Black Widow,,,Atari Vault,bwidow,FBNeo
+Centipede,,,Atari Vault,centiped,FBNeo
+Crystal Castles,,,Atari Vault,ccastles,FBNeo
+Gravitar,,,Atari Vault,gravitar,FBNeo
+Liberator,,,Atari Vault,liberatr,MAME
+Lunar Lander,,,Atari Vault,llander,FBNeo
+Major Havoc,,,Atari Vault,mhavoc,FBNeo
+Millipede,,,Atari Vault,milliped,FBNeo
+Missile Command,,,Atari Vault,missile,FBNeo
+Pong,,,Atari Vault,???,???
+Red Baron,,,Atari Vault,redbaron,FBNeo
+Space Duel,,,Atari Vault,spacduel,FBNeo
+Sprint,,,Atari Vault,sprint1,MAME
+Super Breakout,,,Atari Vault,sbrkout,MAME
+Tempest,,,Atari Vault,tempest,FBNeo
+Warlords,,,Atari Vault,warlords,MAME
 HAUNTED CASTLE,,,Konami Arcade Classics Anniversary Collection,hcastle,FBNeo
 TYPHOON (A-JAX),,,Konami Arcade Classics Anniversary Collection,typhoon,FBNeo
 NEMESIS (Gradius),,,Konami Arcade Classics Anniversary Collection,nemesis,FBNeo
