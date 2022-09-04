@@ -33,7 +33,7 @@ Copy the playlists to your Lakka / RetroArch `playlists` folder and restart.
 | SNK Arcade Classics 0               | [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1) ||
 | SNK Arcade Classics Vol. 1          | [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1) ||
 | Irem Arcade Hits                    | [MobyGames](https://www.mobygames.com/game/windows/irem-arcade-hits) | _TODO_ |
-| Atari Vault                         | [Steam](https://store.steampowered.com/app/400020/Atari_Vault/)      | _TODO_ Based on the 18 arcade games from Atari Vault |
+| Atari Vault                         | [Steam](https://store.steampowered.com/app/400020/Atari_Vault/)      | _TODO_ Based on the 18 arcade games from Atari Vault (no Pong) |
 | Data East Arcade Classics           | [Wikipedia](https://en.wikipedia.org/wiki/Data_East_Arcade_Classics) | _TODO_ |
 
 ## Other sources / tools for playlists
