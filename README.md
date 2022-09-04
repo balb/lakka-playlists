@@ -4,7 +4,7 @@ Lakka / RetroArch game playlists for arcade games based on published console com
 
 Playlists use FBNeo original ROMS, falling back to working clones or mame2003-plus ROMS where required to make games work.
 
-* Some games need mame2010. See below. *
+_Some games need mame2010. See below._
 
 View the full list of games [here](https://github.com/balb/lakka-playlists/blob/main/ArcadePlaylists.csv).
 
