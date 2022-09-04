@@ -1,0 +1,355 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/mame2003plus/lrescue.zip",
+      "label": "Lunar Rescue",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2003-Plus.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2003plus/ballbomb.zip",
+      "label": "Balloon Bomber",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2003-Plus.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/crbaloon.zip",
+      "label": "Crazy Balloon (set 1)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/qix.zip",
+      "label": "Qix (Rev 2)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/alpine.zip",
+      "label": "Alpine Ski (set 1)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/frontlin.zip",
+      "label": "Front Line (set 1)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/wwestern.zip",
+      "label": "Wild Western (set 1)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/chaknpop.zip",
+      "label": "Chack'n Pop",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/lkage.zip",
+      "label": "The Legend of Kage",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/flstory.zip",
+      "label": "The FairyLand Story",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/kikikai.zip",
+      "label": "KiKi KaiKai",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/bonzeadv.zip",
+      "label": "Bonze Adventure (World, Newer)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/kurikint.zip",
+      "label": "Kuri Kinton (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/nastar.zip",
+      "label": "Nastar (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/raimais.zip",
+      "label": "Raimais (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/syvalion.zip",
+      "label": "Syvalion (Japan)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/cadash.zip",
+      "label": "Cadash (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/cameltry.zip",
+      "label": "Cameltry (US, YM2610)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/dondokod.zip",
+      "label": "Don Doko Don (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/insectx.zip",
+      "label": "Insector X (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/viofight.zip",
+      "label": "Violence Fight (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/footchmp.zip",
+      "label": "Football Champ (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/growl.zip",
+      "label": "Growl (World, Rev 1)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/gunfront.zip",
+      "label": "Gun & Frontier (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/liquidk.zip",
+      "label": "Liquid Kids (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/ssi.zip",
+      "label": "Super Space Invaders '91 (World, revised code, Rev 1)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/metalb.zip",
+      "label": "Metal Black (World)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/arabianm.zip",
+      "label": "Arabian Magic (Ver 1.0O 1992/07/06)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2003plus/gseeker.zip",
+      "label": "Grid Seeker - Project Stormhammer (World)",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2003-Plus.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/gunlock.zip",
+      "label": "Gunlock (Ver 2.3O 1994/01/20)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/bublbob2.zip",
+      "label": "Bubble Bobble II (Ver 2.6O 1994/12/16)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/dariusg.zip",
+      "label": "Darius Gaiden - Silver Hawk (Ver 2.5O 1994/09/19)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/lightbr.zip",
+      "label": "Light Bringer (Ver 2.2O 1994/04/08)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/spacedx.zip",
+      "label": "Space Invaders DX (US, v2.1)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/elvactr.zip",
+      "label": "Elevator Action Returns (Ver 2.2O 1995/02/20)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/gekiridn.zip",
+      "label": "Gekirindan (Ver 2.3O 1995/09/21)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/pbobble2.zip",
+      "label": "Puzzle Bobble 2 (Ver 2.3O 1995/07/31)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/spcinv95.zip",
+      "label": "Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5O 1995/06/14)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/cleopatr.zip",
+      "label": "Cleopatra Fortune (Ver 2.1J 1996/09/05)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2003plus/raystorm.zip",
+      "label": "Ray Storm (JAPAN)",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2003-Plus.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2003plus/gdarius.zip",
+      "label": "G-Darius (JAPAN)",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2003-Plus.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/popnpop.zip",
+      "label": "Pop'n Pop (Ver 2.07O 1998/02/09)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/puchicar.zip",
+      "label": "Puchi Carat (Ver 2.02O 1997/10/29)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    }
+  ]
+}
