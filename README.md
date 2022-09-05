@@ -2,9 +2,9 @@
 
 Lakka / RetroArch game playlists for arcade games based on published console compilations.
 
-Playlists use FBNeo original ROMS, falling back to working clones or mame2003-plus ROMS where required to make games work.
+365 games in total split across 14 playlists.
 
-_Some games need mame2010. See below._
+Playlists use FBNeo original ROMS, falling back to working clones or mame2003-plus ROMS where required to make games work. 2 games need mame2010 core - see below.
 
 View the full list of games [here](https://github.com/balb/lakka-playlists/blob/main/ArcadePlaylists.csv).
 
@@ -32,9 +32,9 @@ Copy the playlists to your Lakka / RetroArch `playlists` folder and restart.
 | Konami Arcade Classics Anniversary Collection | [Konami](https://www.konami.com/games/50th/ac/arcade/eu/en/) |                                                    |
 | SNK Arcade Classics 0               | [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1) ||
 | SNK Arcade Classics Vol. 1          | [Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1) ||
-| Irem Arcade Hits                    | [MobyGames](https://www.mobygames.com/game/windows/irem-arcade-hits) | _TODO_ |
-| Atari Vault                         | [Steam](https://store.steampowered.com/app/400020/Atari_Vault/)      | _TODO_ Based on the 18 arcade games from Atari Vault (no Pong) |
-| Data East Arcade Classics           | [Wikipedia](https://en.wikipedia.org/wiki/Data_East_Arcade_Classics) | _TODO_ |
+| Irem Arcade Hits                    | [MobyGames](https://www.mobygames.com/game/windows/irem-arcade-hits) | |
+| Atari Vault                         | [Steam](https://store.steampowered.com/app/400020/Atari_Vault/)      | Based on the 18 arcade games from Atari Vault (no Pong) |
+| Data East Arcade Classics           | [Wikipedia](https://en.wikipedia.org/wiki/Data_East_Arcade_Classics) | |
 
 ## Other sources / tools for playlists
 
@@ -47,9 +47,9 @@ Copy the playlists to your Lakka / RetroArch `playlists` folder and restart.
 
 ## Source DAT files
 
-DAT files from:
+Original DAT files from:
 
 - https://github.com/libretro/mame2003-plus-libretro/blob/master/metadata/mame2003-plus.xml
 - https://github.com/libretro/FBNeo/blob/master/dats/FinalBurn%20Neo%20(ClrMame%20Pro%20XML%2C%20Arcade%20only).dat
 
-Converted to CSVs using https://codepen.io/balb-the-sasster/pen/qBoJzwX
+Converted to CSVs to help me build the playlists using https://codepen.io/balb-the-sasster/pen/qBoJzwX
