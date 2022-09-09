@@ -72,12 +72,12 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "/storage/roms/fbneo/cppicf.zip",
-      "label": "Peter Pepper's Ice Cream Factory (DECO Cassette) (US) (set 1)",
-      "core_path": "/tmp/cores/fbneo_libretro.so",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "path": "/storage/roms/mame2003plus/cppicf.zip",
+      "label": "Cassette: Peter Pepper's Ice Cream Factory (set 1)",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
       "crc32": "00000000|crc",
-      "db_name": "FBNeo - Arcade Games.lpl"
+      "db_name": "MAME 2003-Plus.lpl"
     },
     {
       "path": "/storage/roms/fbneo/sidepckt.zip",
