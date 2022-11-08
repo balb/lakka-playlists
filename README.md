@@ -2,7 +2,7 @@
 
 Lakka / RetroArch game playlists for arcade games based on published console compilations.
 
-365 games in total split across 14 playlists.
+376 games in total split across 15 playlists.
 
 Playlists use FBNeo original ROMS, falling back to working clones or mame2003-plus ROMS where required to make games work. 2 games need mame2010 core - see below.
 
@@ -35,6 +35,7 @@ Copy the playlists to your Lakka / RetroArch `playlists` folder and restart.
 | Irem Arcade Hits                    | [MobyGames](https://www.mobygames.com/game/windows/irem-arcade-hits) | |
 | Atari Vault                         | [Steam](https://store.steampowered.com/app/400020/Atari_Vault/)      | Based on the 18 arcade games from Atari Vault (no Pong) |
 | Data East Arcade Classics           | [Wikipedia](https://en.wikipedia.org/wiki/Data_East_Arcade_Classics) | |
+| Tecmo Classic Arcade                | [Wikipedia](https://en.wikipedia.org/wiki/Tecmo_Classic_Arcade) |  |
 
 ## Other sources / tools for playlists
 
