@@ -79,7 +79,7 @@ function buildPlaylistFile(name, playlist, dats) {
 }
 
 function getPlaylistFileName(name) {
-  return `A - Arcade - ${name}.lpl`;
+  return `Arcade - ${name}.lpl`;
 }
 
 function getFBNeoEntry(name, label) {
